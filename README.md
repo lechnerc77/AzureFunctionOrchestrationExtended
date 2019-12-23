@@ -1,4 +1,4 @@
-# Simple Azure Orchestration with Durable Entity
+# Azure Orchestration with Aactivities and a Durable Entity
 
 ## Content
 This code repository contains a HTTP-triggered Azure durable function orchestartor that orchestrates an activity function. WIthin the activitiy function a durable entity is used that serves as stateful memory.
